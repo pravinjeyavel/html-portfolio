@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en"
+
+<head>
+    <meta charset="UTF-8">
+    <title>my portfolio</title>
+</head>
+
+<body>
+    <h1>GREETINGS!</h1>
+    <h2>PRAVIN'S PORTFOLIO</h2>
+    <h2>I AM A WEB DEVELOPER</h2>
+    <hr />
+    <h3>MY PROJECTS;</h3>
+    <ol>
+        <li>MOVIE RANKING PROJECT.</li>
+        <li>BIRTHDAY INVITATION PROJECT.</li>
+    </ol>
+    <hr>
+
+    <h3>HERE IS A QUICK OVERVIEW OF THE PROJECTS;</h3>
+    <h3>CLICK ON THE TITLE TO LOOK INTO IT:</h3>
+    <ul>
+        <li><a href="./2.4 Movie Ranking Project/solution.html">MOVIE RANKING PROJECT</a></li>
+    </ul>
+    <img src="./2.4 Movie Ranking Project/Screenshot 2025-02-07 222621.png" alt="MOVIE RANKING PROJECT">
+       <hr>
+
+
+    <ul>
+        <li><a href="./3.4+Birthday+Invite+Project/3.4 Birthday Invite Project/solution.html">BIRTHDAY INVITATION PROJECT</a></li> 
+    </ul>
+        <img src="./3.4+Birthday+Invite+Project/3.4 Birthday Invite Project/Screenshot 2025-02-07 222315.png" alt="birthday invitation Project">
+
+
+        <a href="./4.0+File+Paths/4.0 File Paths/Folder1/about.html">ABOUT ME</a>
+    <a href="./4.0+File+Paths/4.0 File Paths/Folder1/contact.html">CONTACT ME</a>
+</body>
